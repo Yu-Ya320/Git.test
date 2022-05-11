@@ -1,0 +1,64 @@
+body {
+    
+}
+
+#header {
+    width: 960px;
+}
+h1 {
+    background-color: orange;
+    color: white;
+    margin: 0;
+}
+
+h4 {
+    margin: 0;
+    
+    
+}
+#container {
+    width: 960px;
+    display: flex; 
+}
+
+#images {
+    width: 320px;
+}
+#img img {
+    display: flex;
+    margin: 10px;
+    border: 1px solid white;
+}
+
+#imgGroup img {
+    width: 90px;
+   margin-left: 10px;
+   border: 1px solid white;
+}
+
+#explanation {
+    width: 500px;
+}
+
+#accesse strong{
+    text-align: center;
+}
+
+#name {
+    text-align: center;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+#introduce {
+    margin-bottom: 10px;
+}
+#price {
+    width: 140px;
+}
+#cheepest {
+    font-size: small;
+}
+#per_person {
+    font-size: small;
+}
