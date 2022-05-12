@@ -1,9 +1,7 @@
-body {
-    
-}
 
 #header {
     width: 960px;
+    margin: 0 auto 0 auto;
 }
 h1 {
     background-color: orange;
@@ -13,12 +11,15 @@ h1 {
 
 h4 {
     margin: 0;
+    background-color: aliceblue;
     
     
 }
 #container {
     width: 960px;
     display: flex; 
+    margin: 0 auto 0 auto;
+    background-color: aliceblue;
 }
 
 #images {
@@ -27,21 +28,16 @@ h4 {
 #img img {
     display: flex;
     margin: 10px;
-    border: 1px solid white;
+    
 }
 
 #imgGroup img {
     width: 90px;
    margin-left: 10px;
-   border: 1px solid white;
 }
 
 #explanation {
     width: 500px;
-}
-
-#accesse strong{
-    text-align: center;
 }
 
 #name {
